@@ -14,13 +14,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist hscstudio/yii2-chart ""
+php composer.phar require --prefer-dist hscstudio/yii2-chart "~1.0"
 ```
 
 or add
 
 ```
-"hscstudio/yii2-chart": ""
+"hscstudio/yii2-chart": "~1.0"
 ```
 
 to the require section of your `composer.json` file.
