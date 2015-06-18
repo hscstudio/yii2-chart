@@ -1,0 +1,18 @@
+{
+    "name": "hscstudio/yii2-chart",
+    "description": "Chart Extension for Yii 2.0 With ChartNewJs",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","chart","chartNew","chartJs"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hafid Mukhlasin",
+            "email": "hafidmukhlasin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "hscstudio\\chart\\": ""
+        }
+    }
+}
