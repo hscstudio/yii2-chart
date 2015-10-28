@@ -2,6 +2,8 @@ yii2-chart
 ==========
 Chart Extension for Yii 2.0 With ChartNewJs
 
+[![Latest Stable Version](https://poser.pugx.org/hscstudio/yii2-chart/v/stable)](https://packagist.org/packages/hscstudio/yii2-chart) [![Total Downloads](https://poser.pugx.org/hscstudio/yii2-chart/downloads)](https://packagist.org/packages/hscstudio/yii2-chart) [![Latest Unstable Version](https://poser.pugx.org/hscstudio/yii2-chart/v/unstable)](https://packagist.org/packages/hscstudio/yii2-chart) [![License](https://poser.pugx.org/hscstudio/yii2-chart/license)](https://packagist.org/packages/hscstudio/yii2-chart)
+
 What is ChartNewJs??
 It's library for chart from https://github.com/FVANCOP/ChartNew.js/
 This library improved from https://github.com/nnnick/Chart.js/ with awesome added feature
